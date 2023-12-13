@@ -1,0 +1,14 @@
+C:\Users\Supraja Konchada\source\repos\CSharpFeatures\CSharpFeatures\bin\x86\Debug\net7.0\CSharp_11.exe
+C:\Users\Supraja Konchada\source\repos\CSharpFeatures\CSharpFeatures\bin\x86\Debug\net7.0\CSharp_11.deps.json
+C:\Users\Supraja Konchada\source\repos\CSharpFeatures\CSharpFeatures\bin\x86\Debug\net7.0\CSharp_11.runtimeconfig.json
+C:\Users\Supraja Konchada\source\repos\CSharpFeatures\CSharpFeatures\bin\x86\Debug\net7.0\CSharp_11.dll
+C:\Users\Supraja Konchada\source\repos\CSharpFeatures\CSharpFeatures\bin\x86\Debug\net7.0\CSharp_11.pdb
+C:\Users\Supraja Konchada\source\repos\CSharpFeatures\CSharpFeatures\obj\x86\Debug\net7.0\CSharp_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supraja Konchada\source\repos\CSharpFeatures\CSharpFeatures\obj\x86\Debug\net7.0\CSharp_11.AssemblyInfoInputs.cache
+C:\Users\Supraja Konchada\source\repos\CSharpFeatures\CSharpFeatures\obj\x86\Debug\net7.0\CSharp_11.AssemblyInfo.cs
+C:\Users\Supraja Konchada\source\repos\CSharpFeatures\CSharpFeatures\obj\x86\Debug\net7.0\CSharp_11.csproj.CoreCompileInputs.cache
+C:\Users\Supraja Konchada\source\repos\CSharpFeatures\CSharpFeatures\obj\x86\Debug\net7.0\CSharp_11.dll
+C:\Users\Supraja Konchada\source\repos\CSharpFeatures\CSharpFeatures\obj\x86\Debug\net7.0\refint\CSharp_11.dll
+C:\Users\Supraja Konchada\source\repos\CSharpFeatures\CSharpFeatures\obj\x86\Debug\net7.0\CSharp_11.pdb
+C:\Users\Supraja Konchada\source\repos\CSharpFeatures\CSharpFeatures\obj\x86\Debug\net7.0\CSharp_11.genruntimeconfig.cache
+C:\Users\Supraja Konchada\source\repos\CSharpFeatures\CSharpFeatures\obj\x86\Debug\net7.0\ref\CSharp_11.dll
